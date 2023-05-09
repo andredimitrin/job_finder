@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Job Finder</title>
+   
   </head>
   <body>
     <header>
