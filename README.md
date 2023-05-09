@@ -1,6 +1,4 @@
-    <header>
-      <h1>Job Finder</h1>
-    </header>
+      <h1>Job Finder</h1>  
     <main>
       <article>
         <h2>Descrição</h2>
@@ -32,4 +30,4 @@
         <p>O Job Finder é uma aplicação web interessante e útil para quem está buscando uma oportunidade de emprego. Com a tecnologia SQLite3, é possível ter uma solução mais leve e de fácil configuração para armazenar os dados das vagas de emprego cadastradas pelos usuários.</p>
       </article>
     </main>
-  </body>
+ 
